@@ -4,7 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application ( Quiz App).
+
+
+
+
 in this project, I used OOP principles {Encapsulation, Abstraction...} + using Alert box
 
 
