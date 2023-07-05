@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application ( Quiz App).
 
-
+with local questions
 
 
 in this project, I used OOP principles {Encapsulation, Abstraction...} + using Alert box
